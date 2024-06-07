@@ -17,7 +17,7 @@ Sinta-se à vontade para explorar meus repositórios para mais projetos!
 
 ## Estatísticas do GitHub
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=eve5284)](https://github.com/anuraghazra/github-readme-stats)
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=eve5284&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=eve5284&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=eve5284&layout=compact&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
