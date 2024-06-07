@@ -1,4 +1,6 @@
 # Bem-vindo ao meu perfil do GitHub! 👋
+![image](https://github.com/eve5284/eve5284/assets/172044841/fb0c7d3f-73e2-49af-a453-d8a9f98d78c6)
+
 
 Olá! Eu sou Eve, desenvolvedor de em progresso, entusiasta na area de t.i, apaixonado por ciências e computação. 
 ## Sobre mim
